@@ -1,0 +1,35 @@
+.box{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left:46rem;
+    margin-right: 400px;
+    box-shadow: rgb(170, 166, 166) 3px 4px 3px 4px;
+    border-radius: 10px;
+    background-color: white;
+    height: 24rem;
+    width: 24rem;
+  }
+  
+  .all{
+    text-align: center;
+    padding-top: 5rem;
+  }
+  .p{
+    text-align: center;
+    margin-top: 1rem;
+  }
+  
+  .Uname{
+    border-radius: 2px;
+    padding-bottom: 2rem;
+  }
+  .Pword{
+    border-radius: 2px;
+    padding-bottom: 2rem;
+  }
+  .login{
+    border-radius: 5px;
+    padding-bottom: 2rem;
+    height: 2rem;
+  
+  }
